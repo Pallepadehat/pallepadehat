@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on My Movie Mate (iOS App)<br>🌱 I’m currently learning Swiftui, PHP, Vue3<br>⚡ Fun fact React Native is better then flutter
+🔭 I’m currently working on My Movie Mate (iOS App)<br>🌱 I’m currently learning SwiftUi, PHP, Vue3<br>⚡ Fun fact React Native is better then flutter
 
 
 ## 🌐 Socials:

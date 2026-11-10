@@ -29,6 +29,9 @@
 | [**BetterDrop**](https://github.com/Pallepadehat/BetterDrop) | Send photos and files between iPhone and Mac, end-to-end encrypted, with Metal shader animations |
 | [**Halo**](https://github.com/Pallepadehat/Halo) | Turns the iPad next to your Mac into a dashboard for your agents, music, system stats and a trackpad |
 | [**SeasonMyMac**](https://github.com/Pallepadehat/SeasonMyMac) | Snow that piles up on your windows and Dock, plus holiday lights |
+| [**WatchMyBattery**](https://github.com/Pallepadehat/WatchMyBattery) | See which apps are draining your Mac, and how much time you'd get back by quitting them. Then drag one out to quit it. |
+
+
 
 **On-device AI companions**
 
